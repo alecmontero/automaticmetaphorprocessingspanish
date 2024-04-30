@@ -1,6 +1,7 @@
 # Automatic Metaphor Processing in Spanish
 Repository for automatic linguistic metaphor processing in Mexican Spanish.
 
+## _First phase: automatic metaphor identification_ 
 
 ## Annotation Guidelines
 Based on Steen et al.'s (2010) **Metaphor Identification Procedure Vrije Universiteit** (MIPVU)
