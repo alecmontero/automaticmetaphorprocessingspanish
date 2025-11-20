@@ -13,3 +13,8 @@ English translation: Diana Luz Hernández Solís
 [Original Spanish version](https://github.com/alecmontero/automaticmetaphorprocessingspanish/blob/4a27a4d344df8561d09e487f3c53b8d6cd2e59ec/Anotacion%20de%20metaforas%20linguisticas%20en%20tuits%20de%20divulgacion%20cientifica_espan%CC%83ol%20de%20Mexico.pdf)
 
 [English Translation](https://github.com/alecmontero/automaticmetaphorprocessingspanish/blob/main/Metaphor%20Annotation%20Guidelines_Popular%20Science%20Tweets%20Mexican%20Spanish_EN%20version.pdf)
+
+
+## _Our Resource: Annotated Corpus for Metaphor Identification in PCS-MX Tweets_
+
+To request and use our annotated corpus, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSeCVW8n6TlfVOk12bZhw3V6CssTvImPUTMmDVsCh-25xVik-g/viewform?usp=dialog).
