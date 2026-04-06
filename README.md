@@ -18,3 +18,7 @@ English translation: Diana Luz Hernández Solís
 ## _Our Resource: Annotated Corpus for Metaphor Identification in PCS-MX Tweets_
 
 To request and use our annotated corpus, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSeCVW8n6TlfVOk12bZhw3V6CssTvImPUTMmDVsCh-25xVik-g/viewform?usp=dialog).
+
+
+## _Second phase: automatic metaphor interpretation_ 
+To request and use our annotated NLI corpus, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSeCVW8n6TlfVOk12bZhw3V6CssTvImPUTMmDVsCh-25xVik-g/viewform?usp=dialog).
