@@ -21,4 +21,4 @@ To request and use our annotated corpus, please complete [this form](https://doc
 
 
 ## _Second phase: automatic metaphor interpretation_ 
-To request and use our annotated NLI corpus, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSeCVW8n6TlfVOk12bZhw3V6CssTvImPUTMmDVsCh-25xVik-g/viewform?usp=dialog).
+To request and use our annotated NLI corpus, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSc2gaXiSQeO_Y4YiIxkUa3TbqxNGla5zb3jitH_2s7MJef8ww/viewform?usp=sharing&ouid=103222078822687809673).
